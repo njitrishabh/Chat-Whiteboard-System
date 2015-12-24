@@ -1,0 +1,6 @@
+sumant: joined the chat
+rishabh: joined the chat
+sumant: hi
+rishabh: hello
+rishabh: wrote on the whitebaord
+sumant: wrote on the whitebaord
